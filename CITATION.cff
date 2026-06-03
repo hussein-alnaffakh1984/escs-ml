@@ -2,8 +2,11 @@ cff-version: 1.2.0
 title: "Uncertainty-Aware Machine Learning for Electronic Stopping Cross-Sections"
 message: "If you use this software or data, please cite the associated paper."
 authors:
-  - family-names: "[Last]"
-    given-names: "[First]"
+  - family-names: "Al-Naffakh"
+    given-names: "Hussein"
+    # affiliation: "University of Alkafeel"
+    # orcid: "https://orcid.org/0000-0002-4775-8818"
+repository-code: "https://github.com/hussein-alnaffakh1984/escs-ml"
 version: 1.0.0
-date-released: 2025-01-01
+date-released: 2026-06-03
 license: MIT

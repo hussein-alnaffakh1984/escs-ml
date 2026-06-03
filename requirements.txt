@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+torch
+ngboost
+matplotlib
+pyarrow
+# optional, for the independent benchmark only (install with --no-deps):
+# ESPNN==1.0.1
+# pyvalem==2.5.7

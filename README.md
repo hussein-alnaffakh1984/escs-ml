@@ -25,7 +25,7 @@ src/build_composition.py  builds the target composition table
 src/espnn_benchmark.py    optional independent benchmark vs ESPNN
 data/                     target_composition_table.csv (+ note on obtaining raw IAEA data)
 figures/                  six publication figures
-manuscript/               Q1 manuscript (.docx) and final research report
+manuscript/               (not included; provided on publication)
 models/                   trained weights (download from Zenodo or regenerate)
 ```
 
@@ -44,7 +44,6 @@ The **raw experimental data** derives from the IAEA stopping-power database and 
 obtain it from the IAEA and place it in `data/` (see `data/README.md`).
 
 ## Citation
-See `CITATION.cff`. A Zenodo DOI will be minted on release and added to the manuscript.
-
+ (not included; provided on publication)
 ## License
 Code: MIT (`LICENSE`). Composition table and figures: CC-BY 4.0.
